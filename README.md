@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I'm currently working on — the AI Agent Developer Internship at ScaleOn, building agent systems with Python, LangChain, and Gemini (recently shipped an Email Auto-Triage & Draft-Reply Agent using the Gmail API).<br><br>🤝 I'm looking to collaborate on — AI agent projects, LLM-powered tools, and applied ML/CV projects (fraud detection, plant disease diagnostics, multi-agent pipelines).<br><br>🌱 I'm looking for help with — refining agentic architecture patterns, prompt engineering, and MCP integration best practices.<br><br>🌱 I'm currently learning — agentic architecture and tool design, exploring the Claude Certified Architect – Foundations (CCA-F) domains (Agentic Architecture, Prompt Engineering, Tool Design, MCP Integration, Context Management).<br><br>💬 Ask me about — LangChain, building AI agents, CNNs/transfer learning for computer vision, or multi-agent research pipelines (like ResearchMind).<br><br>⚡ Fun fact — I'm also building a YouTube channel of animated AI-generated videos on moral and spiritual themes, alongside my AI engineering work.
+### About Me
+
+I am an aspiring AI Engineer and third-year Computer Science student specializing in Artificial Intelligence and Machine Learning. My technical focus lies in developing intelligent systems, ranging from traditional machine learning models to advanced agentic AI architectures. 
+
+**Current Work & Focus**
+* **AI Agent Developer Intern at ScaleOn:** Building and deploying agent systems using Python, LangChain, and Gemini. Recently shipped an Email Auto-Triage & Draft-Reply Agent utilizing the Gmail API.
+* **Skill Expansion:** Actively expanding my expertise in Model Context Protocol (MCP) integration, agentic architecture, and tool design, while exploring the Claude Certified Architect – Foundations (CCA-F) domains.
+* **Problem Solving:** Strengthening my foundational skills by learning Data Structures and Algorithms (DSA) using Java, having successfully solved over 100 questions on LeetCode. https://leetcode.com/u/jawaidaakif/
+
+**Technical Expertise**
+* **Artificial Intelligence:** Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Agentic AI, and Multi-Agent Pipelines.
+* **Programming Languages:** Python, Java, and JavaScript.
+* **Libraries & Frameworks:** TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, and LangChain.
+* **Web Development:** Full-stack development utilizing the MERN stack (MongoDB, Express.js, React, Node.js).
+
+
+**Interests & Collaboration**
+* **Open to Collaborating On:** AI agent projects, LLM-powered tools, and applied ML/CV projects.
+* **Seeking Insights On:** Refining agentic architecture patterns, prompt engineering, and MCP integration best practices.
+* **Creative Pursuits:** Alongside AI engineering, I manage a YouTube channel producing animated, AI-generated videos focused on moral and spiritual themes.
 
 
 ## 🌐 Socials:
